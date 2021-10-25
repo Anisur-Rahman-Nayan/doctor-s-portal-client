@@ -1,0 +1,16 @@
+.card{
+    margin: 5px;
+    border-radius: 10px;
+}
+.gap{
+    text-align: justify;
+    padding: 5px;
+    margin-top: 10px;
+}
+.name-gap{
+    margin: 0px;
+    margin-left: 10px;
+}
+.space{
+    margin-top: 15px;
+}

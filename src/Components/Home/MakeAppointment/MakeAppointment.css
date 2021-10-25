@@ -1,0 +1,18 @@
+.background{
+    background-image: url("../../../images//Mask\ Group\ 4.png");
+    background-size: cover;
+    background-repeat: no-repeat;  
+    height: 400px;
+    position: relative;
+    background-position: center center;
+   margin-left: 120px;
+   margin-top: 120px;
+   padding: 60px;
+   width: 1300px;
+   
+}
+
+.background img{
+    position: relative;
+    bottom: 128px;
+}
